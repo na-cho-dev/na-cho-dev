@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fortune Ihenacho</h1>
+<h1 align="center">Hi 👋, I'm Fortune Iheanacho</h1>
 
 <h3 align="center">I'm a Frontend Developer, JavaScript Developer and an Aspiring Full stack Developer.</h3>
 
