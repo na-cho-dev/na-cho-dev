@@ -2,11 +2,11 @@
 
 <h3 align="center">I'm a Frontend Developer, JavaScript Developer and an Aspiring Full stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nacho369&label=Profile%20views&color=0e75b6&style=flat" alt="nacho369" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=na-cho-dev&label=Profile%20views&color=0e75b6&style=flat" alt="na-cho-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nacho369" alt="nacho369" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=na-cho-dev" alt="na-cho-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_nachodev_" target="blank"><img src="https://img.shields.io/twitter/follow/_nachodev_?logo=twitter&style=for-the-badge" alt="_nachodev_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/na_cho_dev" target="blank"><img src="https://img.shields.io/twitter/follow/na_cho_dev?logo=twitter&style=for-the-badge" alt="na_cho_dev" /></a> </p>
 
 - 🌱 I’m currently in the ALX SE Program **C, Python, JavaScript**
 
@@ -24,9 +24,9 @@
 
 <p align="left">
 
-<a href="https://twitter.com/_nachodev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nachodev_" height="30" width="40" /></a>
+<a href="https://twitter.com/_nachodev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="na_cho_dev" height="30" width="40" /></a>
 
-<a href="https://instagram.com/_nachodev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nachodev_" height="30" width="40" /></a>
+<a href="https://instagram.com/_nachodev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="na_cho_dev" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/c/nachodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nachodev" height="30" width="40" /></a>
 
@@ -40,5 +40,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nacho369&show_icons=true&locale=en" alt="nacho369" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nacho369&" alt="nacho369" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=na-cho-dev&" alt="na-cho-dev" /></p>
 
